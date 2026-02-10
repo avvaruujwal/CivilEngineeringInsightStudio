@@ -21,5 +21,9 @@ Civil Engineering Insight Studio is an AI-powered web application that analyzes 
 2. Run application:
    streamlit run app.py
 
+## Demo Video
+[Watch Demo Video]((https://drive.google.com/file/d/1gocw0gCGpaPmtkiTTo6aF7P0N5WFLwyG/view?usp=drive_link))
+
+
 ## Author
 Avvaru Ujwal
