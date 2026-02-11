@@ -12,14 +12,14 @@ The application allows users to upload construction site images and receive auto
 ✔ Interactive web interface  
 ✔ Easy image upload and result viewing  
 ---
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - Streamlit
 - Pillow (Image Processing)
 - Generative AI (Simulated)
 - Git & GitHub
 ---
-## 📂 Project Structure
+##  Project Structure
 CivilEngineeringInsightStudio/
 │
 ├── app.py
@@ -28,7 +28,7 @@ CivilEngineeringInsightStudio/
 ├── screenshots/
 └── demo/
 ---
-## ▶ How to Run the Project
+##  How to Run the Project
 1. Install dependencies:
 pip install -r requirements.txt
 2. Run application:
@@ -36,25 +36,25 @@ streamlit run app.py
 3. Open browser at:
 http://localhost:8501
 ---
-## 📸 Application Output
+##  Application Output
 Screenshots of application outputs are available in the **screenshots** folder.
 ---
-## 🎥 Demo Video
+##  Demo Video
 Demo video is available inside the **demo** folder.
 ---
-## 🎯 Advantages
+##  Advantages
 - Simplifies construction monitoring
 - Easy-to-use web interface
 - Provides safety suggestions
 - Useful for engineers and students
 ---
-## 🔮 Future Scope
+##  Future Scope
 - Real-time construction monitoring
 - Drone image analysis
 - Safety violation detection
 - AI-based progress tracking
 ---
-## 👨‍💻 Author
+##  Author
 **Avvaru Ujwal**
 Developed during SmartInternz Internship Program.
 ---
